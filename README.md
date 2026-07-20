@@ -5,10 +5,6 @@
 </p>
 
 <p align="center">
-  Backend systems in C#/.NET and AWS by day. Web and mobile side projects the rest of the time.
-</p>
-
-<p align="center">
   📫 Reach me at <a href="mailto:dsinghvi07@gmail.com">dsinghvi07@gmail.com</a>
 </p>
 
@@ -58,8 +54,3 @@
 **Padelo** — cross-platform padel scoring and tournament app in Flutter. [Landing page →](https://padelo-web.vercel.app)
 
 ---
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dxksh&show_icons=true&hide_border=true&theme=github_dark&hide_title=true" alt="GitHub stats" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dxksh&layout=compact&hide_border=true&theme=github_dark&langs_count=6" alt="Top languages" height="160" />
-</div>

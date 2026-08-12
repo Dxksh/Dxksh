@@ -5,6 +5,7 @@
 </p>
 
 <p align="center">
+  👨‍💻 Portfolio Website https://www.dsinghvi.com/
   📫 Reach me at <a href="mailto:dsinghvi07@gmail.com">dsinghvi07@gmail.com</a>
 </p>
 
